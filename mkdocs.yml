@@ -6,7 +6,7 @@ site_url: https://wiki.icmod.tech
 use_directory_urls: false
 theme:
   name: material
-  favicon: assets/logo.png
+  favicon: assets/favicon.svg
   logo: assets/logo.svg
   palette:
     # Palette toggle for light mode
