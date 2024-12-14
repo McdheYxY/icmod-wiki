@@ -7,7 +7,7 @@ use_directory_urls: false
 theme:
   name: material
   favicon: assets/logo.png
-  logo: assets/logo.png
+  logo: assets/logo.svg
   palette:
     # Palette toggle for light mode
     - scheme: default
